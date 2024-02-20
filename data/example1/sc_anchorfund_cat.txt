@@ -1,0 +1,1999 @@
+placestate	year	anchorcat
+Alexandria, VA	1987	1
+Alexandria, VA	1988	1
+Alexandria, VA	1989	1
+Alexandria, VA	1990	1
+Alexandria, VA	1991	1
+Alexandria, VA	1992	1
+Alexandria, VA	1993	1
+Alexandria, VA	1994	1
+Alexandria, VA	1995	1
+Alexandria, VA	1996	1
+Alexandria, VA	1997	1
+Alexandria, VA	1998	1
+Alexandria, VA	1999	1
+Alexandria, VA	2000	1
+Alexandria, VA	2001	1
+Alexandria, VA	2002	1
+Alexandria, VA	2003	1
+Alexandria, VA	2004	1
+Alexandria, VA	2005	1
+Alexandria, VA	2006	1
+Alexandria, VA	2007	1
+Alexandria, VA	2008	1
+Alexandria, VA	2009	1
+Alexandria, VA	2010	1
+Alexandria, VA	2011	1
+Alexandria, VA	2012	1
+Alexandria, VA	2013	1
+Alexandria, VA	2014	1
+Alexandria, VA	2015	1
+Alexandria, VA	2016	1
+Alexandria, VA	2017	1
+Alexandria, VA	2018	1
+Alexandria, VA	2019	1
+Alexandria, VA	2020	1
+Ann Arbor, MI	1988	1
+Ann Arbor, MI	1989	1
+Ann Arbor, MI	1990	1
+Ann Arbor, MI	1991	1
+Ann Arbor, MI	1992	1
+Ann Arbor, MI	1993	1
+Ann Arbor, MI	1994	1
+Ann Arbor, MI	1995	1
+Ann Arbor, MI	1996	1
+Ann Arbor, MI	1997	1
+Ann Arbor, MI	1998	1
+Ann Arbor, MI	1999	1
+Ann Arbor, MI	2000	2
+Ann Arbor, MI	2001	2
+Ann Arbor, MI	2002	2
+Ann Arbor, MI	2003	4
+Ann Arbor, MI	2004	4
+Ann Arbor, MI	2005	4
+Ann Arbor, MI	2006	4
+Ann Arbor, MI	2007	4
+Ann Arbor, MI	2008	4
+Ann Arbor, MI	2009	4
+Ann Arbor, MI	2010	4
+Ann Arbor, MI	2011	4
+Ann Arbor, MI	2012	4
+Ann Arbor, MI	2013	4
+Ann Arbor, MI	2014	3
+Ann Arbor, MI	2015	3
+Ann Arbor, MI	2016	3
+Ann Arbor, MI	2017	3
+Ann Arbor, MI	2018	3
+Ann Arbor, MI	2019	3
+Ann Arbor, MI	2020	2
+Arlington, VA	1997	1
+Arlington, VA	1998	1
+Arlington, VA	1999	1
+Arlington, VA	2000	1
+Arlington, VA	2001	2
+Arlington, VA	2002	2
+Arlington, VA	2003	2
+Arlington, VA	2004	2
+Arlington, VA	2005	2
+Arlington, VA	2006	2
+Arlington, VA	2007	1
+Arlington, VA	2008	1
+Arlington, VA	2009	1
+Arlington, VA	2010	1
+Arlington, VA	2011	1
+Arlington, VA	2012	1
+Arlington, VA	2013	1
+Arlington, VA	2014	1
+Arlington, VA	2015	1
+Arlington, VA	2016	1
+Arlington, VA	2017	1
+Arlington, VA	2018	1
+Arlington, VA	2019	1
+Arlington, VA	2020	1
+Atlanta, GA	1983	1
+Atlanta, GA	1984	1
+Atlanta, GA	1985	1
+Atlanta, GA	1986	1
+Atlanta, GA	1987	1
+Atlanta, GA	1988	1
+Atlanta, GA	1989	1
+Atlanta, GA	1990	1
+Atlanta, GA	1991	1
+Atlanta, GA	1992	1
+Atlanta, GA	1993	1
+Atlanta, GA	1994	1
+Atlanta, GA	1995	1
+Atlanta, GA	1996	1
+Atlanta, GA	1997	1
+Atlanta, GA	1998	1
+Atlanta, GA	1999	1
+Atlanta, GA	2000	1
+Atlanta, GA	2001	1
+Atlanta, GA	2002	1
+Atlanta, GA	2003	1
+Atlanta, GA	2004	1
+Atlanta, GA	2005	1
+Atlanta, GA	2006	1
+Atlanta, GA	2007	1
+Atlanta, GA	2008	2
+Atlanta, GA	2009	2
+Atlanta, GA	2010	2
+Atlanta, GA	2011	2
+Atlanta, GA	2012	2
+Atlanta, GA	2013	2
+Atlanta, GA	2014	2
+Atlanta, GA	2015	2
+Atlanta, GA	2016	2
+Atlanta, GA	2017	2
+Atlanta, GA	2018	2
+Atlanta, GA	2019	2
+Atlanta, GA	2020	1
+Austin, TX	2008	1
+Austin, TX	2009	1
+Austin, TX	2010	1
+Austin, TX	2011	1
+Austin, TX	2012	2
+Austin, TX	2013	2
+Austin, TX	2014	2
+Austin, TX	2015	2
+Austin, TX	2016	2
+Austin, TX	2017	2
+Austin, TX	2018	2
+Austin, TX	2019	2
+Austin, TX	2020	2
+Baltimore, MD	1998	1
+Baltimore, MD	1999	1
+Baltimore, MD	2000	1
+Baltimore, MD	2001	1
+Baltimore, MD	2002	1
+Baltimore, MD	2003	1
+Baltimore, MD	2004	1
+Baltimore, MD	2005	1
+Baltimore, MD	2006	1
+Baltimore, MD	2007	1
+Baltimore, MD	2008	1
+Baltimore, MD	2009	1
+Baltimore, MD	2010	1
+Baltimore, MD	2011	1
+Baltimore, MD	2012	1
+Baltimore, MD	2013	1
+Baltimore, MD	2014	2
+Baltimore, MD	2015	2
+Baltimore, MD	2016	2
+Baltimore, MD	2017	2
+Baltimore, MD	2018	2
+Baltimore, MD	2019	2
+Baltimore, MD	2020	2
+Bellevue, WA	1996	1
+Bellevue, WA	1997	1
+Bellevue, WA	1998	1
+Bellevue, WA	1999	1
+Bellevue, WA	2000	1
+Bellevue, WA	2001	1
+Bellevue, WA	2002	1
+Bellevue, WA	2003	1
+Bellevue, WA	2004	1
+Bellevue, WA	2005	2
+Bellevue, WA	2006	2
+Bellevue, WA	2007	2
+Bellevue, WA	2008	2
+Bellevue, WA	2009	2
+Bellevue, WA	2010	2
+Bellevue, WA	2011	2
+Bellevue, WA	2012	2
+Bellevue, WA	2013	2
+Bellevue, WA	2014	2
+Bellevue, WA	2015	2
+Bellevue, WA	2016	2
+Bellevue, WA	2017	2
+Bellevue, WA	2018	1
+Bellevue, WA	2019	1
+Bellevue, WA	2020	1
+Bethesda, MD	1995	1
+Bethesda, MD	1996	1
+Bethesda, MD	1997	1
+Bethesda, MD	1998	1
+Bethesda, MD	1999	1
+Bethesda, MD	2000	2
+Bethesda, MD	2001	2
+Bethesda, MD	2002	2
+Bethesda, MD	2003	2
+Bethesda, MD	2004	2
+Bethesda, MD	2005	2
+Bethesda, MD	2006	2
+Bethesda, MD	2007	2
+Bethesda, MD	2008	2
+Bethesda, MD	2009	2
+Bethesda, MD	2010	2
+Bethesda, MD	2011	2
+Bethesda, MD	2012	2
+Bethesda, MD	2013	2
+Bethesda, MD	2014	1
+Bethesda, MD	2015	1
+Bethesda, MD	2016	1
+Bethesda, MD	2017	1
+Bethesda, MD	2018	1
+Bethesda, MD	2019	1
+Boston, MA	1981	4
+Boston, MA	1982	4
+Boston, MA	1983	4
+Boston, MA	1984	4
+Boston, MA	1985	4
+Boston, MA	1986	4
+Boston, MA	1987	4
+Boston, MA	1988	4
+Boston, MA	1989	4
+Boston, MA	1990	4
+Boston, MA	1991	4
+Boston, MA	1992	4
+Boston, MA	1993	4
+Boston, MA	1994	5
+Boston, MA	1995	5
+Boston, MA	1996	5
+Boston, MA	1997	5
+Boston, MA	1998	5
+Boston, MA	1999	5
+Boston, MA	2000	5
+Boston, MA	2001	5
+Boston, MA	2002	5
+Boston, MA	2003	5
+Boston, MA	2004	5
+Boston, MA	2005	5
+Boston, MA	2006	5
+Boston, MA	2007	5
+Boston, MA	2008	5
+Boston, MA	2009	5
+Boston, MA	2010	5
+Boston, MA	2011	5
+Boston, MA	2012	5
+Boston, MA	2013	5
+Boston, MA	2014	5
+Boston, MA	2015	5
+Boston, MA	2016	5
+Boston, MA	2017	5
+Boston, MA	2018	5
+Boston, MA	2019	5
+Boston, MA	2020	5
+Boulder, CO	1987	1
+Boulder, CO	1988	1
+Boulder, CO	1989	1
+Boulder, CO	1990	1
+Boulder, CO	1991	1
+Boulder, CO	1992	1
+Boulder, CO	1993	1
+Boulder, CO	1994	1
+Boulder, CO	1995	1
+Boulder, CO	1996	3
+Boulder, CO	1997	4
+Boulder, CO	1998	4
+Boulder, CO	1999	4
+Boulder, CO	2000	4
+Boulder, CO	2001	4
+Boulder, CO	2002	4
+Boulder, CO	2003	4
+Boulder, CO	2004	4
+Boulder, CO	2005	4
+Boulder, CO	2006	4
+Boulder, CO	2007	4
+Boulder, CO	2008	4
+Boulder, CO	2009	4
+Boulder, CO	2010	4
+Boulder, CO	2011	4
+Boulder, CO	2012	4
+Boulder, CO	2013	4
+Boulder, CO	2014	4
+Boulder, CO	2015	4
+Boulder, CO	2016	3
+Boulder, CO	2017	3
+Boulder, CO	2018	3
+Boulder, CO	2019	2
+Boulder, CO	2020	2
+Buffalo, NY	1981	1
+Buffalo, NY	1982	1
+Buffalo, NY	1983	1
+Buffalo, NY	1984	1
+Buffalo, NY	1985	1
+Buffalo, NY	1986	1
+Buffalo, NY	1987	1
+Buffalo, NY	1988	1
+Buffalo, NY	1989	1
+Buffalo, NY	1990	1
+Buffalo, NY	1991	1
+Buffalo, NY	1992	1
+Buffalo, NY	1993	1
+Buffalo, NY	1994	1
+Buffalo, NY	1995	1
+Buffalo, NY	1996	1
+Buffalo, NY	1997	1
+Buffalo, NY	1998	1
+Buffalo, NY	1999	1
+Buffalo, NY	2000	1
+Buffalo, NY	2001	1
+Buffalo, NY	2002	1
+Buffalo, NY	2003	1
+Buffalo, NY	2004	1
+Buffalo, NY	2005	1
+Buffalo, NY	2006	1
+Buffalo, NY	2007	1
+Buffalo, NY	2008	1
+Buffalo, NY	2009	1
+Buffalo, NY	2010	1
+Buffalo, NY	2011	1
+Buffalo, NY	2012	1
+Buffalo, NY	2013	1
+Buffalo, NY	2014	1
+Buffalo, NY	2015	1
+Buffalo, NY	2016	1
+Buffalo, NY	2017	1
+Buffalo, NY	2018	1
+Buffalo, NY	2019	1
+Buffalo, NY	2020	1
+Burlingame, CA	2013	1
+Burlingame, CA	2014	1
+Burlingame, CA	2015	1
+Burlingame, CA	2016	1
+Burlingame, CA	2017	1
+Burlingame, CA	2018	1
+Burlingame, CA	2019	1
+Burlingame, CA	2020	1
+Cambridge, MA	1981	1
+Cambridge, MA	1982	2
+Cambridge, MA	1983	2
+Cambridge, MA	1984	2
+Cambridge, MA	1985	2
+Cambridge, MA	1986	4
+Cambridge, MA	1987	4
+Cambridge, MA	1988	4
+Cambridge, MA	1989	4
+Cambridge, MA	1990	4
+Cambridge, MA	1991	4
+Cambridge, MA	1992	4
+Cambridge, MA	1993	4
+Cambridge, MA	1994	4
+Cambridge, MA	1995	4
+Cambridge, MA	1996	4
+Cambridge, MA	1997	4
+Cambridge, MA	1998	4
+Cambridge, MA	1999	4
+Cambridge, MA	2000	4
+Cambridge, MA	2001	4
+Cambridge, MA	2002	4
+Cambridge, MA	2003	4
+Cambridge, MA	2004	4
+Cambridge, MA	2005	4
+Cambridge, MA	2006	4
+Cambridge, MA	2007	4
+Cambridge, MA	2008	4
+Cambridge, MA	2009	4
+Cambridge, MA	2010	4
+Cambridge, MA	2011	4
+Cambridge, MA	2012	4
+Cambridge, MA	2013	4
+Cambridge, MA	2014	4
+Cambridge, MA	2015	4
+Cambridge, MA	2016	4
+Cambridge, MA	2017	4
+Cambridge, MA	2018	4
+Cambridge, MA	2019	4
+Cambridge, MA	2020	4
+Campbell, CA	2001	1
+Campbell, CA	2002	1
+Campbell, CA	2003	1
+Campbell, CA	2004	1
+Campbell, CA	2005	1
+Campbell, CA	2006	1
+Campbell, CA	2007	1
+Campbell, CA	2008	1
+Campbell, CA	2009	1
+Campbell, CA	2010	1
+Campbell, CA	2011	1
+Campbell, CA	2012	1
+Campbell, CA	2013	1
+Campbell, CA	2014	1
+Cary, NC	1996	1
+Cary, NC	1997	1
+Cary, NC	1998	1
+Cary, NC	1999	1
+Cary, NC	2000	1
+Cary, NC	2001	1
+Cary, NC	2002	1
+Cary, NC	2003	1
+Cary, NC	2004	1
+Cary, NC	2005	1
+Cary, NC	2006	1
+Cary, NC	2007	1
+Cary, NC	2008	1
+Cary, NC	2009	1
+Cary, NC	2010	1
+Cary, NC	2011	1
+Cary, NC	2012	1
+Cary, NC	2013	1
+Cary, NC	2014	1
+Charlotte, NC	1994	1
+Charlotte, NC	1995	1
+Charlotte, NC	1996	1
+Charlotte, NC	1997	1
+Charlotte, NC	1998	1
+Charlotte, NC	1999	1
+Charlotte, NC	2000	1
+Charlotte, NC	2001	1
+Charlotte, NC	2002	1
+Charlotte, NC	2003	1
+Charlotte, NC	2004	1
+Charlotte, NC	2005	1
+Charlotte, NC	2006	1
+Charlotte, NC	2007	1
+Charlotte, NC	2008	1
+Charlotte, NC	2009	1
+Charlotte, NC	2010	1
+Charlotte, NC	2011	1
+Charlotte, NC	2012	1
+Charlotte, NC	2013	1
+Chicago, IL	1981	1
+Chicago, IL	1982	1
+Chicago, IL	1983	1
+Chicago, IL	1984	1
+Chicago, IL	1985	1
+Chicago, IL	1986	1
+Chicago, IL	1987	1
+Chicago, IL	1988	1
+Chicago, IL	1989	1
+Chicago, IL	1990	1
+Chicago, IL	1991	1
+Chicago, IL	1992	1
+Chicago, IL	1993	1
+Chicago, IL	1994	1
+Chicago, IL	1995	1
+Chicago, IL	1996	2
+Chicago, IL	1997	3
+Chicago, IL	1998	3
+Chicago, IL	1999	3
+Chicago, IL	2000	3
+Chicago, IL	2001	3
+Chicago, IL	2002	3
+Chicago, IL	2003	3
+Chicago, IL	2004	3
+Chicago, IL	2005	3
+Chicago, IL	2006	3
+Chicago, IL	2007	3
+Chicago, IL	2008	4
+Chicago, IL	2009	4
+Chicago, IL	2010	4
+Chicago, IL	2011	4
+Chicago, IL	2012	4
+Chicago, IL	2013	4
+Chicago, IL	2014	4
+Chicago, IL	2015	4
+Chicago, IL	2016	3
+Chicago, IL	2017	3
+Chicago, IL	2018	3
+Chicago, IL	2019	3
+Chicago, IL	2020	2
+Cincinnati, OH	2007	1
+Cincinnati, OH	2008	1
+Cincinnati, OH	2009	1
+Cincinnati, OH	2010	1
+Cincinnati, OH	2011	1
+Cincinnati, OH	2012	1
+Cincinnati, OH	2013	1
+Cincinnati, OH	2014	1
+Cincinnati, OH	2015	1
+Cincinnati, OH	2016	1
+Cincinnati, OH	2017	1
+Cincinnati, OH	2018	1
+Cincinnati, OH	2019	1
+Cleveland, OH	1997	1
+Cleveland, OH	1998	1
+Cleveland, OH	1999	1
+Cleveland, OH	2000	1
+Cleveland, OH	2001	1
+Cleveland, OH	2002	1
+Cleveland, OH	2003	1
+Cleveland, OH	2004	1
+Cleveland, OH	2005	1
+Cleveland, OH	2006	1
+Columbia, MD	2003	1
+Columbia, MD	2004	1
+Columbia, MD	2005	1
+Columbia, MD	2006	1
+Columbia, MD	2007	1
+Columbia, MD	2008	1
+Columbia, MD	2009	1
+Columbia, MD	2010	1
+Columbia, MD	2011	1
+Columbia, MD	2012	1
+Columbia, MD	2013	1
+Columbia, MD	2014	1
+Columbia, MD	2015	1
+Columbia, MD	2016	1
+Columbia, MD	2017	1
+Columbia, MD	2018	1
+Columbia, MD	2019	1
+Columbia, MD	2020	1
+Columbus, OH	2004	1
+Columbus, OH	2005	1
+Columbus, OH	2006	1
+Columbus, OH	2007	1
+Columbus, OH	2008	1
+Columbus, OH	2009	1
+Columbus, OH	2010	1
+Columbus, OH	2011	1
+Columbus, OH	2012	1
+Columbus, OH	2013	1
+Columbus, OH	2014	1
+Columbus, OH	2015	1
+Columbus, OH	2016	1
+Columbus, OH	2017	1
+Columbus, OH	2018	1
+Columbus, OH	2019	1
+Columbus, OH	2020	1
+Conshohocken, PA	1994	1
+Conshohocken, PA	1995	1
+Conshohocken, PA	1996	1
+Conshohocken, PA	1997	1
+Conshohocken, PA	1998	1
+Conshohocken, PA	1999	1
+Conshohocken, PA	2000	1
+Conshohocken, PA	2001	1
+Conshohocken, PA	2002	1
+Conshohocken, PA	2003	1
+Conshohocken, PA	2004	1
+Conshohocken, PA	2005	1
+Conshohocken, PA	2006	1
+Conshohocken, PA	2007	1
+Conshohocken, PA	2008	1
+Conshohocken, PA	2009	1
+Conshohocken, PA	2010	1
+Conshohocken, PA	2011	1
+Conshohocken, PA	2012	1
+Conshohocken, PA	2013	1
+Conshohocken, PA	2014	1
+Conshohocken, PA	2015	1
+Conshohocken, PA	2016	1
+Conshohocken, PA	2017	1
+Conshohocken, PA	2018	1
+Conshohocken, PA	2019	1
+Conshohocken, PA	2020	1
+Costa Mesa, CA	1994	1
+Costa Mesa, CA	1995	1
+Costa Mesa, CA	1996	1
+Costa Mesa, CA	1997	1
+Costa Mesa, CA	1998	1
+Costa Mesa, CA	1999	1
+Costa Mesa, CA	2000	1
+Costa Mesa, CA	2001	1
+Costa Mesa, CA	2002	1
+Costa Mesa, CA	2003	1
+Costa Mesa, CA	2004	1
+Costa Mesa, CA	2005	1
+Costa Mesa, CA	2006	1
+Costa Mesa, CA	2007	1
+Costa Mesa, CA	2008	1
+Costa Mesa, CA	2009	1
+Culver City, CA	2000	1
+Culver City, CA	2001	1
+Culver City, CA	2002	1
+Culver City, CA	2003	1
+Culver City, CA	2004	1
+Culver City, CA	2005	1
+Culver City, CA	2006	1
+Culver City, CA	2007	1
+Culver City, CA	2008	1
+Culver City, CA	2009	1
+Culver City, CA	2010	1
+Culver City, CA	2015	1
+Culver City, CA	2016	1
+Culver City, CA	2017	1
+Culver City, CA	2018	1
+Culver City, CA	2019	1
+Culver City, CA	2020	1
+Cupertino, CA	1983	1
+Cupertino, CA	1984	1
+Cupertino, CA	1985	1
+Cupertino, CA	1986	1
+Cupertino, CA	1987	1
+Cupertino, CA	1988	1
+Cupertino, CA	1989	1
+Cupertino, CA	1990	1
+Cupertino, CA	1991	1
+Cupertino, CA	1992	1
+Cupertino, CA	1993	1
+Cupertino, CA	1994	2
+Cupertino, CA	1995	2
+Cupertino, CA	1996	1
+Cupertino, CA	1997	1
+Cupertino, CA	1998	1
+Cupertino, CA	1999	1
+Cupertino, CA	2000	1
+Cupertino, CA	2001	1
+Cupertino, CA	2002	1
+Cupertino, CA	2003	1
+Cupertino, CA	2004	1
+Cupertino, CA	2005	1
+Cupertino, CA	2006	1
+Cupertino, CA	2007	1
+Cupertino, CA	2008	1
+Cupertino, CA	2009	1
+Cupertino, CA	2010	1
+Cupertino, CA	2011	1
+Cupertino, CA	2012	1
+Cupertino, CA	2013	1
+Cupertino, CA	2014	1
+Cupertino, CA	2015	1
+Dallas, TX	1981	1
+Dallas, TX	1982	1
+Dallas, TX	1983	1
+Dallas, TX	1984	2
+Dallas, TX	1985	2
+Dallas, TX	1986	2
+Dallas, TX	1987	2
+Dallas, TX	1988	2
+Dallas, TX	1989	2
+Dallas, TX	1990	2
+Dallas, TX	1991	2
+Dallas, TX	1992	2
+Dallas, TX	1993	2
+Dallas, TX	1994	2
+Dallas, TX	1995	2
+Dallas, TX	1996	2
+Dallas, TX	1997	2
+Dallas, TX	1998	2
+Dallas, TX	1999	2
+Dallas, TX	2000	2
+Dallas, TX	2001	2
+Dallas, TX	2002	2
+Dallas, TX	2003	2
+Dallas, TX	2004	2
+Dallas, TX	2005	2
+Dallas, TX	2006	2
+Dallas, TX	2007	2
+Dallas, TX	2008	2
+Dallas, TX	2009	2
+Dallas, TX	2010	2
+Dallas, TX	2011	1
+Dallas, TX	2012	1
+Dallas, TX	2013	1
+Dallas, TX	2014	1
+Dallas, TX	2015	1
+Denver, CO	1982	1
+Denver, CO	1983	1
+Denver, CO	1984	2
+Denver, CO	1985	2
+Denver, CO	1986	2
+Denver, CO	1987	2
+Denver, CO	1988	2
+Denver, CO	1989	2
+Denver, CO	1990	2
+Denver, CO	1991	2
+Denver, CO	1992	2
+Denver, CO	1993	2
+Denver, CO	1994	2
+Denver, CO	1995	2
+Denver, CO	1996	2
+Denver, CO	1997	2
+Denver, CO	1998	2
+Denver, CO	1999	2
+Denver, CO	2000	1
+Denver, CO	2001	1
+Denver, CO	2002	1
+Denver, CO	2003	1
+Denver, CO	2004	1
+Denver, CO	2005	1
+Denver, CO	2006	1
+Denver, CO	2007	1
+Denver, CO	2008	1
+Denver, CO	2009	1
+Denver, CO	2010	1
+Denver, CO	2011	1
+Denver, CO	2012	1
+Denver, CO	2013	1
+Detroit, MI	2010	1
+Detroit, MI	2011	1
+Detroit, MI	2012	1
+Detroit, MI	2013	1
+Detroit, MI	2014	1
+Detroit, MI	2015	1
+Detroit, MI	2016	1
+Detroit, MI	2017	1
+Detroit, MI	2018	1
+Detroit, MI	2019	1
+Detroit, MI	2020	1
+Durham, NC	1997	1
+Durham, NC	1998	1
+Durham, NC	1999	1
+Durham, NC	2000	1
+Durham, NC	2001	1
+Durham, NC	2002	1
+Durham, NC	2003	1
+Durham, NC	2004	1
+Durham, NC	2005	1
+Durham, NC	2006	1
+Durham, NC	2007	1
+Durham, NC	2008	1
+Durham, NC	2009	1
+Durham, NC	2010	1
+Durham, NC	2011	1
+Durham, NC	2012	1
+Durham, NC	2013	1
+Durham, NC	2014	1
+Durham, NC	2015	1
+Durham, NC	2016	1
+Durham, NC	2017	1
+Durham, NC	2018	1
+Durham, NC	2019	1
+Durham, NC	2020	1
+Eden Prairie, MN	1989	1
+Eden Prairie, MN	1990	1
+Eden Prairie, MN	1991	1
+Eden Prairie, MN	1992	1
+Eden Prairie, MN	1993	1
+Eden Prairie, MN	1994	1
+Eden Prairie, MN	1995	1
+Eden Prairie, MN	1996	1
+Eden Prairie, MN	1997	1
+Eden Prairie, MN	1998	1
+Eden Prairie, MN	1999	2
+Eden Prairie, MN	2000	2
+Eden Prairie, MN	2001	2
+Eden Prairie, MN	2002	2
+Eden Prairie, MN	2003	2
+Eden Prairie, MN	2004	2
+Eden Prairie, MN	2005	2
+Eden Prairie, MN	2006	2
+Eden Prairie, MN	2007	2
+Eden Prairie, MN	2008	2
+Eden Prairie, MN	2009	2
+Eden Prairie, MN	2010	2
+Eden Prairie, MN	2011	2
+Eden Prairie, MN	2012	2
+Eden Prairie, MN	2013	2
+Eden Prairie, MN	2014	2
+Eden Prairie, MN	2015	2
+Eden Prairie, MN	2016	1
+Eden Prairie, MN	2017	1
+Eden Prairie, MN	2018	1
+Eden Prairie, MN	2019	1
+Emeryville, CA	1986	1
+Emeryville, CA	1987	1
+Emeryville, CA	1988	1
+Emeryville, CA	1989	1
+Emeryville, CA	1990	1
+Emeryville, CA	1991	1
+Emeryville, CA	1992	1
+Emeryville, CA	1993	1
+Emeryville, CA	1994	1
+Emeryville, CA	1995	1
+Emeryville, CA	1996	1
+Emeryville, CA	1997	1
+Emeryville, CA	1998	1
+Emeryville, CA	1999	1
+Emeryville, CA	2000	1
+Emeryville, CA	2001	1
+Emeryville, CA	2002	1
+Emeryville, CA	2003	1
+Emeryville, CA	2004	1
+Emeryville, CA	2005	1
+Emeryville, CA	2006	1
+Emeryville, CA	2007	1
+Emeryville, CA	2008	1
+Emeryville, CA	2009	1
+Emeryville, CA	2010	1
+Emeryville, CA	2011	1
+Emeryville, CA	2012	1
+Emeryville, CA	2013	1
+Emeryville, CA	2014	1
+Emeryville, CA	2015	1
+Franklin, TN	1988	1
+Franklin, TN	1989	1
+Franklin, TN	1990	1
+Franklin, TN	1991	1
+Franklin, TN	1992	1
+Franklin, TN	1993	1
+Franklin, TN	1994	1
+Franklin, TN	1995	1
+Franklin, TN	1996	1
+Franklin, TN	1997	1
+Franklin, TN	1998	1
+Franklin, TN	1999	1
+Franklin, TN	2000	1
+Franklin, TN	2001	1
+Franklin, TN	2002	1
+Franklin, TN	2003	1
+Hillsboro, OR	1987	1
+Hillsboro, OR	1988	1
+Hillsboro, OR	1989	1
+Hillsboro, OR	1990	1
+Hillsboro, OR	1991	1
+Hillsboro, OR	1992	1
+Hillsboro, OR	1993	1
+Hillsboro, OR	1994	1
+Hillsboro, OR	1995	1
+Hillsboro, OR	1996	1
+Hillsboro, OR	1997	1
+Hillsboro, OR	1998	1
+Hillsboro, OR	1999	1
+Hillsboro, OR	2000	1
+Hillsboro, OR	2001	1
+Hillsboro, OR	2002	1
+Hillsboro, OR	2003	1
+Hillsboro, OR	2004	1
+Hillsboro, OR	2005	1
+Hillsboro, OR	2006	1
+Hillsboro, OR	2007	1
+Hillsboro, OR	2008	1
+Hillsboro, OR	2009	1
+Hillsboro, OR	2010	1
+Indianapolis city, IN	1984	1
+Indianapolis city, IN	1985	1
+Indianapolis city, IN	1986	1
+Indianapolis city, IN	1987	1
+Indianapolis city, IN	1988	1
+Indianapolis city, IN	1989	1
+Indianapolis city, IN	1990	1
+Indianapolis city, IN	1991	1
+Indianapolis city, IN	1992	1
+Indianapolis city, IN	1993	1
+Indianapolis city, IN	1994	1
+Indianapolis city, IN	1995	1
+Indianapolis city, IN	1996	1
+Indianapolis city, IN	1997	1
+Indianapolis city, IN	1998	1
+Indianapolis city, IN	1999	1
+Indianapolis city, IN	2000	1
+Indianapolis city, IN	2001	1
+Indianapolis city, IN	2002	2
+Indianapolis city, IN	2003	2
+Indianapolis city, IN	2004	2
+Indianapolis city, IN	2005	2
+Indianapolis city, IN	2006	2
+Indianapolis city, IN	2007	2
+Indianapolis city, IN	2008	2
+Indianapolis city, IN	2009	2
+Indianapolis city, IN	2010	2
+Indianapolis city, IN	2011	2
+Indianapolis city, IN	2012	2
+Indianapolis city, IN	2013	2
+Indianapolis city, IN	2014	2
+Indianapolis city, IN	2015	2
+Indianapolis city, IN	2016	2
+Indianapolis city, IN	2017	2
+Indianapolis city, IN	2018	2
+Indianapolis city, IN	2019	1
+Indianapolis city, IN	2020	1
+Lexington, MA	1983	1
+Lexington, MA	1984	1
+Lexington, MA	1985	1
+Lexington, MA	1986	1
+Lexington, MA	1987	1
+Lexington, MA	1988	1
+Lexington, MA	1989	1
+Lexington, MA	1990	1
+Lexington, MA	1991	1
+Lexington, MA	1992	1
+Lexington, MA	1993	1
+Lexington, MA	1994	1
+Lexington, MA	1995	1
+Lexington, MA	1996	1
+Lexington, MA	1997	1
+Lexington, MA	1998	1
+Lexington, MA	1999	1
+Los Altos, CA	1984	1
+Los Altos, CA	1985	1
+Los Altos, CA	1986	1
+Los Altos, CA	1987	1
+Los Altos, CA	1988	1
+Los Altos, CA	1989	1
+Los Altos, CA	1990	1
+Los Altos, CA	1991	1
+Los Altos, CA	1992	1
+Los Altos, CA	1993	1
+Los Altos, CA	1994	1
+Los Altos, CA	1995	2
+Los Altos, CA	1996	2
+Los Altos, CA	1997	3
+Los Altos, CA	1998	3
+Los Altos, CA	1999	3
+Los Altos, CA	2000	3
+Los Altos, CA	2001	3
+Los Altos, CA	2002	3
+Los Altos, CA	2003	3
+Los Altos, CA	2004	4
+Los Altos, CA	2005	4
+Los Altos, CA	2006	4
+Los Altos, CA	2007	4
+Los Altos, CA	2008	4
+Los Altos, CA	2009	4
+Los Altos, CA	2010	4
+Los Altos, CA	2011	3
+Los Altos, CA	2012	3
+Los Altos, CA	2013	3
+Los Altos, CA	2014	3
+Los Altos, CA	2015	3
+Los Altos, CA	2016	3
+Los Altos, CA	2017	2
+Los Altos, CA	2018	1
+Los Altos, CA	2019	1
+Los Altos, CA	2020	1
+Los Angeles, CA	1983	1
+Los Angeles, CA	1984	1
+Los Angeles, CA	1985	1
+Los Angeles, CA	1986	1
+Los Angeles, CA	1987	1
+Los Angeles, CA	1988	2
+Los Angeles, CA	1989	2
+Los Angeles, CA	1990	2
+Los Angeles, CA	1991	2
+Los Angeles, CA	1992	2
+Los Angeles, CA	1993	2
+Los Angeles, CA	1994	2
+Los Angeles, CA	1995	3
+Los Angeles, CA	1996	3
+Los Angeles, CA	1997	3
+Los Angeles, CA	1998	3
+Los Angeles, CA	1999	4
+Los Angeles, CA	2000	4
+Los Angeles, CA	2001	4
+Los Angeles, CA	2002	4
+Los Angeles, CA	2003	4
+Los Angeles, CA	2004	4
+Los Angeles, CA	2005	4
+Los Angeles, CA	2006	4
+Los Angeles, CA	2007	4
+Los Angeles, CA	2008	4
+Los Angeles, CA	2009	4
+Los Angeles, CA	2010	4
+Los Angeles, CA	2011	3
+Los Angeles, CA	2012	3
+Los Angeles, CA	2013	3
+Los Angeles, CA	2014	2
+Los Angeles, CA	2015	2
+Los Angeles, CA	2016	2
+Los Angeles, CA	2017	2
+Los Angeles, CA	2018	2
+Los Angeles, CA	2019	2
+Los Angeles, CA	2020	2
+Madison, WI	1984	1
+Madison, WI	1985	1
+Madison, WI	1986	1
+Madison, WI	1987	1
+Madison, WI	1988	1
+Madison, WI	1989	1
+Madison, WI	1990	1
+Madison, WI	1991	1
+Madison, WI	1992	1
+Madison, WI	1993	1
+Madison, WI	1994	1
+Madison, WI	1995	1
+Madison, WI	1996	1
+Madison, WI	1997	1
+Madison, WI	1998	1
+Madison, WI	1999	1
+Madison, WI	2000	1
+Madison, WI	2001	1
+Madison, WI	2002	1
+Madison, WI	2003	1
+Madison, WI	2004	1
+Madison, WI	2005	1
+Madison, WI	2006	1
+Madison, WI	2007	1
+Madison, WI	2008	1
+Madison, WI	2009	1
+Madison, WI	2010	1
+Madison, WI	2011	1
+Madison, WI	2012	1
+Madison, WI	2013	1
+Madison, WI	2014	1
+Madison, WI	2015	1
+Madison, WI	2016	1
+Madison, WI	2017	1
+Madison, WI	2018	1
+Madison, WI	2019	1
+Madison, WI	2020	1
+Marlborough, MA	1995	1
+Marlborough, MA	1996	1
+Marlborough, MA	1997	1
+Marlborough, MA	1998	1
+Marlborough, MA	1999	1
+Marlborough, MA	2000	1
+Marlborough, MA	2001	1
+Marlborough, MA	2002	1
+Marlborough, MA	2003	1
+Marlborough, MA	2004	1
+Marlborough, MA	2005	1
+Marlborough, MA	2006	1
+Marlborough, MA	2007	1
+Marlborough, MA	2008	1
+Marlborough, MA	2009	1
+Marlborough, MA	2010	1
+Marlborough, MA	2011	1
+Marlborough, MA	2012	1
+Marlborough, MA	2013	1
+Marlborough, MA	2014	1
+Marlborough, MA	2015	1
+Marlborough, MA	2016	1
+Marlborough, MA	2017	1
+Marlborough, MA	2018	1
+Marlborough, MA	2019	1
+Menlo Park, CA	1981	5
+Menlo Park, CA	1982	5
+Menlo Park, CA	1983	5
+Menlo Park, CA	1984	5
+Menlo Park, CA	1985	5
+Menlo Park, CA	1986	5
+Menlo Park, CA	1987	5
+Menlo Park, CA	1988	5
+Menlo Park, CA	1989	5
+Menlo Park, CA	1990	5
+Menlo Park, CA	1991	5
+Menlo Park, CA	1992	5
+Menlo Park, CA	1993	5
+Menlo Park, CA	1994	5
+Menlo Park, CA	1995	5
+Menlo Park, CA	1996	5
+Menlo Park, CA	1997	5
+Menlo Park, CA	1998	5
+Menlo Park, CA	1999	5
+Menlo Park, CA	2000	5
+Menlo Park, CA	2001	5
+Menlo Park, CA	2002	5
+Menlo Park, CA	2003	5
+Menlo Park, CA	2004	5
+Menlo Park, CA	2005	5
+Menlo Park, CA	2006	5
+Menlo Park, CA	2007	5
+Menlo Park, CA	2008	5
+Menlo Park, CA	2009	5
+Menlo Park, CA	2010	5
+Menlo Park, CA	2011	5
+Menlo Park, CA	2012	5
+Menlo Park, CA	2013	5
+Menlo Park, CA	2014	5
+Menlo Park, CA	2015	5
+Menlo Park, CA	2016	5
+Menlo Park, CA	2017	5
+Menlo Park, CA	2018	5
+Menlo Park, CA	2019	5
+Menlo Park, CA	2020	5
+Minneapolis, MN	1981	1
+Minneapolis, MN	1982	1
+Minneapolis, MN	1983	1
+Minneapolis, MN	1984	1
+Minneapolis, MN	1985	1
+Minneapolis, MN	1986	1
+Minneapolis, MN	1987	1
+Minneapolis, MN	1988	1
+Minneapolis, MN	1989	1
+Minneapolis, MN	1990	1
+Minneapolis, MN	1991	1
+Minneapolis, MN	1992	1
+Minneapolis, MN	1993	1
+Minneapolis, MN	1994	2
+Minneapolis, MN	1995	3
+Minneapolis, MN	1996	4
+Minneapolis, MN	1997	4
+Minneapolis, MN	1998	4
+Minneapolis, MN	1999	4
+Minneapolis, MN	2000	4
+Minneapolis, MN	2001	3
+Minneapolis, MN	2002	3
+Minneapolis, MN	2003	3
+Minneapolis, MN	2004	3
+Minneapolis, MN	2005	3
+Minneapolis, MN	2006	3
+Minneapolis, MN	2007	3
+Minneapolis, MN	2008	3
+Minneapolis, MN	2009	3
+Minneapolis, MN	2010	3
+Minneapolis, MN	2011	3
+Minneapolis, MN	2012	3
+Minneapolis, MN	2013	2
+Minneapolis, MN	2014	1
+Minneapolis, MN	2015	1
+Minneapolis, MN	2016	1
+Minneapolis, MN	2017	1
+Minneapolis, MN	2018	1
+Minneapolis, MN	2019	1
+Minneapolis, MN	2020	1
+Minnetonka, MN	1982	1
+Minnetonka, MN	1983	1
+Minnetonka, MN	1984	1
+Minnetonka, MN	1985	1
+Minnetonka, MN	1986	1
+Minnetonka, MN	1987	1
+Minnetonka, MN	1988	1
+Minnetonka, MN	1989	1
+Minnetonka, MN	1990	1
+Minnetonka, MN	1991	1
+Minnetonka, MN	1992	1
+Minnetonka, MN	1993	1
+Minnetonka, MN	1994	1
+Minnetonka, MN	1995	1
+Minnetonka, MN	1996	1
+Minnetonka, MN	1997	1
+Minnetonka, MN	1998	1
+Minnetonka, MN	1999	1
+Minnetonka, MN	2000	1
+Minnetonka, MN	2001	1
+Minnetonka, MN	2002	1
+Minnetonka, MN	2003	1
+Minnetonka, MN	2004	1
+Minnetonka, MN	2005	1
+Minnetonka, MN	2006	1
+Minnetonka, MN	2007	1
+Minnetonka, MN	2008	1
+Minnetonka, MN	2009	1
+Minnetonka, MN	2010	1
+Minnetonka, MN	2011	1
+Minnetonka, MN	2012	1
+Minnetonka, MN	2013	1
+Minnetonka, MN	2014	1
+Minnetonka, MN	2015	1
+Minnetonka, MN	2016	1
+Minnetonka, MN	2017	1
+Minnetonka, MN	2018	1
+Minnetonka, MN	2019	1
+Minnetonka, MN	2020	1
+Mountain View, CA	1985	1
+Mountain View, CA	1986	1
+Mountain View, CA	1987	1
+Mountain View, CA	1988	1
+Mountain View, CA	1989	1
+Mountain View, CA	1990	1
+Mountain View, CA	1991	1
+Mountain View, CA	1992	1
+Mountain View, CA	1993	1
+Mountain View, CA	1994	1
+Mountain View, CA	2009	1
+Mountain View, CA	2010	1
+Mountain View, CA	2011	1
+Mountain View, CA	2012	1
+Mountain View, CA	2013	1
+Mountain View, CA	2014	1
+Mountain View, CA	2015	1
+Mountain View, CA	2016	1
+Mountain View, CA	2017	1
+Mountain View, CA	2018	1
+Mountain View, CA	2019	1
+Mountain View, CA	2020	1
+Nashville-Davidson, TN	1981	1
+Nashville-Davidson, TN	1982	1
+Nashville-Davidson, TN	1983	1
+Nashville-Davidson, TN	1984	1
+Nashville-Davidson, TN	1985	1
+Nashville-Davidson, TN	1986	1
+Nashville-Davidson, TN	1987	1
+Nashville-Davidson, TN	1988	1
+Nashville-Davidson, TN	1989	1
+Nashville-Davidson, TN	1990	1
+Nashville-Davidson, TN	1991	1
+Nashville-Davidson, TN	1992	1
+Nashville-Davidson, TN	1993	1
+Nashville-Davidson, TN	1994	1
+Nashville-Davidson, TN	1995	1
+Nashville-Davidson, TN	1996	1
+Nashville-Davidson, TN	1997	1
+Nashville-Davidson, TN	1998	1
+Nashville-Davidson, TN	1999	1
+Nashville-Davidson, TN	2000	1
+Nashville-Davidson, TN	2001	2
+Nashville-Davidson, TN	2002	2
+Nashville-Davidson, TN	2003	3
+Nashville-Davidson, TN	2004	3
+Nashville-Davidson, TN	2005	3
+Nashville-Davidson, TN	2006	3
+Nashville-Davidson, TN	2007	3
+Nashville-Davidson, TN	2008	3
+Nashville-Davidson, TN	2009	3
+Nashville-Davidson, TN	2010	3
+Nashville-Davidson, TN	2011	3
+Nashville-Davidson, TN	2012	3
+Nashville-Davidson, TN	2013	3
+Nashville-Davidson, TN	2014	2
+Nashville-Davidson, TN	2015	1
+Newton, MA	1996	1
+Newton, MA	1997	1
+Newton, MA	1998	1
+Newton, MA	1999	1
+Newton, MA	2000	1
+Newton, MA	2001	1
+Newton, MA	2002	1
+Newton, MA	2003	1
+Newton, MA	2004	1
+Newton, MA	2005	1
+Newton, MA	2006	1
+Newton, MA	2007	1
+Newton, MA	2008	1
+Newton, MA	2009	1
+Newton, MA	2010	1
+Newton, MA	2011	1
+Newton, MA	2012	1
+Newton, MA	2013	1
+Newton, MA	2014	1
+New York, NY	1981	4
+New York, NY	1982	4
+New York, NY	1983	4
+New York, NY	1984	4
+New York, NY	1985	4
+New York, NY	1986	4
+New York, NY	1987	4
+New York, NY	1988	4
+New York, NY	1989	4
+New York, NY	1990	4
+New York, NY	1991	4
+New York, NY	1992	4
+New York, NY	1993	4
+New York, NY	1994	4
+New York, NY	1995	4
+New York, NY	1996	4
+New York, NY	1997	5
+New York, NY	1998	5
+New York, NY	1999	5
+New York, NY	2000	5
+New York, NY	2001	5
+New York, NY	2002	5
+New York, NY	2003	5
+New York, NY	2004	5
+New York, NY	2005	5
+New York, NY	2006	5
+New York, NY	2007	5
+New York, NY	2008	5
+New York, NY	2009	5
+New York, NY	2010	5
+New York, NY	2011	5
+New York, NY	2012	5
+New York, NY	2013	5
+New York, NY	2014	5
+New York, NY	2015	5
+New York, NY	2016	5
+New York, NY	2017	5
+New York, NY	2018	5
+New York, NY	2019	5
+New York, NY	2020	5
+Norwalk, CT	1984	1
+Norwalk, CT	1985	1
+Norwalk, CT	1986	1
+Norwalk, CT	1987	1
+Norwalk, CT	1988	1
+Norwalk, CT	1989	1
+Norwalk, CT	1990	1
+Norwalk, CT	1991	1
+Norwalk, CT	1992	1
+Norwalk, CT	1993	1
+Norwalk, CT	1994	1
+Norwalk, CT	1995	1
+Norwalk, CT	1996	1
+Norwalk, CT	1997	1
+Norwalk, CT	1998	1
+Norwalk, CT	1999	1
+Norwalk, CT	2000	1
+Norwalk, CT	2001	1
+Oakland, CA	1983	1
+Oakland, CA	1984	1
+Oakland, CA	1985	1
+Oakland, CA	1986	1
+Oakland, CA	1987	1
+Oakland, CA	1988	1
+Oakland, CA	1989	1
+Oakland, CA	1990	1
+Oakland, CA	1991	1
+Oakland, CA	1992	1
+Oakland, CA	1993	1
+Oakland, CA	1994	1
+Oakland, CA	1995	1
+Oakland, CA	1996	1
+Oakland, CA	2006	1
+Oakland, CA	2007	1
+Oakland, CA	2008	1
+Oakland, CA	2009	1
+Oakland, CA	2010	2
+Oakland, CA	2011	2
+Oakland, CA	2012	2
+Oakland, CA	2013	2
+Oakland, CA	2014	2
+Oakland, CA	2015	2
+Oakland, CA	2016	2
+Oakland, CA	2017	2
+Oakland, CA	2018	2
+Oakland, CA	2019	2
+Oakland, CA	2020	1
+Oklahoma City, OK	2007	1
+Oklahoma City, OK	2008	1
+Oklahoma City, OK	2009	1
+Oklahoma City, OK	2010	1
+Oklahoma City, OK	2011	1
+Oklahoma City, OK	2012	1
+Oklahoma City, OK	2013	1
+Oklahoma City, OK	2014	1
+Oklahoma City, OK	2015	1
+Oklahoma City, OK	2016	1
+Oklahoma City, OK	2017	1
+Oklahoma City, OK	2018	1
+Oklahoma City, OK	2019	1
+Oklahoma City, OK	2020	1
+Palo Alto, CA	1981	2
+Palo Alto, CA	1982	3
+Palo Alto, CA	1983	4
+Palo Alto, CA	1984	4
+Palo Alto, CA	1985	4
+Palo Alto, CA	1986	4
+Palo Alto, CA	1987	4
+Palo Alto, CA	1988	4
+Palo Alto, CA	1989	4
+Palo Alto, CA	1990	4
+Palo Alto, CA	1991	4
+Palo Alto, CA	1992	4
+Palo Alto, CA	1993	4
+Palo Alto, CA	1994	4
+Palo Alto, CA	1995	5
+Palo Alto, CA	1996	5
+Palo Alto, CA	1997	5
+Palo Alto, CA	1998	5
+Palo Alto, CA	1999	5
+Palo Alto, CA	2000	5
+Palo Alto, CA	2001	5
+Palo Alto, CA	2002	5
+Palo Alto, CA	2003	5
+Palo Alto, CA	2004	5
+Palo Alto, CA	2005	5
+Palo Alto, CA	2006	5
+Palo Alto, CA	2007	5
+Palo Alto, CA	2008	5
+Palo Alto, CA	2009	5
+Palo Alto, CA	2010	5
+Palo Alto, CA	2011	5
+Palo Alto, CA	2012	5
+Palo Alto, CA	2013	5
+Palo Alto, CA	2014	5
+Palo Alto, CA	2015	5
+Palo Alto, CA	2016	5
+Palo Alto, CA	2017	5
+Palo Alto, CA	2018	5
+Palo Alto, CA	2019	5
+Palo Alto, CA	2020	5
+Pasadena, CA	2000	1
+Pasadena, CA	2001	1
+Pasadena, CA	2002	1
+Pasadena, CA	2003	1
+Pasadena, CA	2004	1
+Pasadena, CA	2005	1
+Pasadena, CA	2006	1
+Pasadena, CA	2007	1
+Pasadena, CA	2008	1
+Pasadena, CA	2009	1
+Pasadena, CA	2010	1
+Pasadena, CA	2011	1
+Pasadena, CA	2012	1
+Pasadena, CA	2013	1
+Pasadena, CA	2014	1
+Pasadena, CA	2015	1
+Pasadena, CA	2016	1
+Pasadena, CA	2017	1
+Pasadena, CA	2018	1
+Pasadena, CA	2019	1
+Philadelphia, PA	2003	1
+Philadelphia, PA	2004	1
+Philadelphia, PA	2005	1
+Philadelphia, PA	2006	1
+Philadelphia, PA	2007	1
+Philadelphia, PA	2008	1
+Philadelphia, PA	2009	1
+Philadelphia, PA	2010	1
+Philadelphia, PA	2011	1
+Philadelphia, PA	2012	1
+Philadelphia, PA	2013	1
+Philadelphia, PA	2014	1
+Philadelphia, PA	2015	1
+Philadelphia, PA	2016	1
+Philadelphia, PA	2017	1
+Philadelphia, PA	2018	1
+Philadelphia, PA	2019	1
+Philadelphia, PA	2020	1
+Pittsburgh, PA	1997	1
+Pittsburgh, PA	1998	1
+Pittsburgh, PA	1999	1
+Pittsburgh, PA	2000	1
+Pittsburgh, PA	2001	1
+Pittsburgh, PA	2002	1
+Pittsburgh, PA	2003	1
+Pittsburgh, PA	2004	1
+Pittsburgh, PA	2005	1
+Pittsburgh, PA	2006	1
+Pittsburgh, PA	2007	1
+Pittsburgh, PA	2008	1
+Pittsburgh, PA	2009	1
+Pittsburgh, PA	2010	1
+Pittsburgh, PA	2011	1
+Pittsburgh, PA	2012	1
+Pittsburgh, PA	2013	1
+Pittsburgh, PA	2014	1
+Pittsburgh, PA	2015	1
+Pittsburgh, PA	2016	1
+Pittsburgh, PA	2017	1
+Pittsburgh, PA	2018	1
+Pittsburgh, PA	2019	1
+Redwood City, CA	1981	1
+Redwood City, CA	1982	1
+Redwood City, CA	1983	1
+Redwood City, CA	1984	1
+Redwood City, CA	1985	1
+Redwood City, CA	1986	1
+Redwood City, CA	1987	1
+Redwood City, CA	1988	1
+Redwood City, CA	1989	1
+Redwood City, CA	1990	1
+Redwood City, CA	1991	1
+Redwood City, CA	1992	1
+Redwood City, CA	1993	1
+Redwood City, CA	1994	1
+Redwood City, CA	1995	2
+Redwood City, CA	1996	2
+Redwood City, CA	1997	2
+Redwood City, CA	1998	2
+Redwood City, CA	1999	2
+Redwood City, CA	2000	2
+Redwood City, CA	2001	2
+Redwood City, CA	2002	3
+Redwood City, CA	2003	3
+Redwood City, CA	2004	3
+Redwood City, CA	2005	3
+Redwood City, CA	2006	3
+Redwood City, CA	2007	3
+Redwood City, CA	2008	3
+Redwood City, CA	2009	3
+Redwood City, CA	2010	3
+Redwood City, CA	2011	3
+Redwood City, CA	2012	3
+Redwood City, CA	2013	3
+Redwood City, CA	2014	2
+Redwood City, CA	2015	2
+Redwood City, CA	2016	1
+Redwood City, CA	2017	1
+Redwood City, CA	2018	1
+San Bruno, CA	1997	1
+San Bruno, CA	1998	1
+San Bruno, CA	1999	1
+San Bruno, CA	2000	1
+San Bruno, CA	2001	1
+San Bruno, CA	2002	1
+San Bruno, CA	2003	1
+San Bruno, CA	2004	1
+San Bruno, CA	2005	1
+San Bruno, CA	2006	1
+San Bruno, CA	2007	1
+San Bruno, CA	2008	1
+San Bruno, CA	2009	1
+San Bruno, CA	2010	1
+San Bruno, CA	2011	1
+San Bruno, CA	2012	1
+San Bruno, CA	2013	1
+San Bruno, CA	2014	1
+San Bruno, CA	2015	1
+San Bruno, CA	2016	1
+San Bruno, CA	2017	1
+San Bruno, CA	2018	1
+San Diego, CA	1984	1
+San Diego, CA	1985	2
+San Diego, CA	1986	2
+San Diego, CA	1987	2
+San Diego, CA	1988	2
+San Diego, CA	1989	2
+San Diego, CA	1990	2
+San Diego, CA	1991	2
+San Diego, CA	1992	3
+San Diego, CA	1993	3
+San Diego, CA	1994	3
+San Diego, CA	1995	3
+San Diego, CA	1996	3
+San Diego, CA	1997	4
+San Diego, CA	1998	4
+San Diego, CA	1999	4
+San Diego, CA	2000	4
+San Diego, CA	2001	4
+San Diego, CA	2002	4
+San Diego, CA	2003	4
+San Diego, CA	2004	4
+San Diego, CA	2005	4
+San Diego, CA	2006	4
+San Diego, CA	2007	4
+San Diego, CA	2008	4
+San Diego, CA	2009	4
+San Diego, CA	2010	4
+San Diego, CA	2011	4
+San Diego, CA	2012	4
+San Diego, CA	2013	4
+San Diego, CA	2014	4
+San Diego, CA	2015	3
+San Diego, CA	2016	2
+San Diego, CA	2017	2
+San Diego, CA	2018	2
+San Diego, CA	2019	2
+San Diego, CA	2020	1
+Sandy Springs, GA	1997	1
+Sandy Springs, GA	1998	1
+Sandy Springs, GA	1999	1
+Sandy Springs, GA	2000	1
+Sandy Springs, GA	2001	1
+Sandy Springs, GA	2002	1
+Sandy Springs, GA	2003	1
+Sandy Springs, GA	2004	1
+Sandy Springs, GA	2005	1
+Sandy Springs, GA	2006	1
+Sandy Springs, GA	2007	1
+Sandy Springs, GA	2008	1
+Sandy Springs, GA	2009	1
+Sandy Springs, GA	2010	1
+Sandy Springs, GA	2011	1
+Sandy Springs, GA	2012	1
+Sandy Springs, GA	2013	1
+Sandy Springs, GA	2014	1
+Sandy Springs, GA	2015	1
+Sandy Springs, GA	2016	1
+Sandy Springs, GA	2017	1
+Sandy Springs, GA	2018	1
+Sandy Springs, GA	2019	1
+San Francisco, CA	1981	4
+San Francisco, CA	1982	4
+San Francisco, CA	1983	4
+San Francisco, CA	1984	4
+San Francisco, CA	1985	4
+San Francisco, CA	1986	4
+San Francisco, CA	1987	4
+San Francisco, CA	1988	4
+San Francisco, CA	1989	4
+San Francisco, CA	1990	5
+San Francisco, CA	1991	5
+San Francisco, CA	1992	5
+San Francisco, CA	1993	5
+San Francisco, CA	1994	5
+San Francisco, CA	1995	5
+San Francisco, CA	1996	5
+San Francisco, CA	1997	5
+San Francisco, CA	1998	5
+San Francisco, CA	1999	5
+San Francisco, CA	2000	5
+San Francisco, CA	2001	5
+San Francisco, CA	2002	5
+San Francisco, CA	2003	5
+San Francisco, CA	2004	5
+San Francisco, CA	2005	5
+San Francisco, CA	2006	5
+San Francisco, CA	2007	5
+San Francisco, CA	2008	5
+San Francisco, CA	2009	5
+San Francisco, CA	2010	5
+San Francisco, CA	2011	5
+San Francisco, CA	2012	5
+San Francisco, CA	2013	5
+San Francisco, CA	2014	5
+San Francisco, CA	2015	5
+San Francisco, CA	2016	5
+San Francisco, CA	2017	5
+San Francisco, CA	2018	5
+San Francisco, CA	2019	5
+San Francisco, CA	2020	5
+San Jose, CA	1986	1
+San Jose, CA	1987	1
+San Jose, CA	1988	1
+San Jose, CA	1989	1
+San Jose, CA	1990	1
+San Jose, CA	1991	1
+San Jose, CA	1992	1
+San Jose, CA	1993	1
+San Jose, CA	1994	1
+San Jose, CA	1995	2
+San Jose, CA	1996	2
+San Jose, CA	1997	2
+San Jose, CA	1998	2
+San Jose, CA	1999	2
+San Jose, CA	2000	2
+San Jose, CA	2001	2
+San Jose, CA	2002	3
+San Jose, CA	2003	3
+San Jose, CA	2004	3
+San Jose, CA	2005	3
+San Jose, CA	2006	3
+San Jose, CA	2007	3
+San Jose, CA	2008	3
+San Jose, CA	2009	3
+San Jose, CA	2010	3
+San Jose, CA	2011	3
+San Jose, CA	2012	3
+San Jose, CA	2013	3
+San Jose, CA	2014	3
+San Jose, CA	2015	2
+San Jose, CA	2016	1
+San Mateo, CA	1981	2
+San Mateo, CA	1982	2
+San Mateo, CA	1983	3
+San Mateo, CA	1984	3
+San Mateo, CA	1985	3
+San Mateo, CA	1986	3
+San Mateo, CA	1987	3
+San Mateo, CA	1988	3
+San Mateo, CA	1989	4
+San Mateo, CA	1990	4
+San Mateo, CA	1991	4
+San Mateo, CA	1992	4
+San Mateo, CA	1993	4
+San Mateo, CA	1994	4
+San Mateo, CA	1995	4
+San Mateo, CA	1996	4
+San Mateo, CA	1997	4
+San Mateo, CA	1998	4
+San Mateo, CA	1999	4
+San Mateo, CA	2000	4
+San Mateo, CA	2001	4
+San Mateo, CA	2002	4
+San Mateo, CA	2003	4
+San Mateo, CA	2004	4
+San Mateo, CA	2005	4
+San Mateo, CA	2006	4
+San Mateo, CA	2007	4
+San Mateo, CA	2008	4
+San Mateo, CA	2009	4
+San Mateo, CA	2010	4
+San Mateo, CA	2011	4
+San Mateo, CA	2012	4
+San Mateo, CA	2013	4
+San Mateo, CA	2014	4
+San Mateo, CA	2015	4
+San Mateo, CA	2016	4
+San Mateo, CA	2017	4
+San Mateo, CA	2018	4
+San Mateo, CA	2019	3
+San Mateo, CA	2020	3
+San Ramon, CA	2004	1
+San Ramon, CA	2005	1
+San Ramon, CA	2006	1
+San Ramon, CA	2007	1
+San Ramon, CA	2008	1
+San Ramon, CA	2009	1
+San Ramon, CA	2010	1
+San Ramon, CA	2011	1
+San Ramon, CA	2012	1
+San Ramon, CA	2013	1
+San Ramon, CA	2014	1
+San Ramon, CA	2015	1
+San Ramon, CA	2016	1
+San Ramon, CA	2017	1
+San Ramon, CA	2018	1
+San Ramon, CA	2019	1
+San Ramon, CA	2020	1
+Santa Clara, CA	1995	1
+Santa Clara, CA	1996	1
+Santa Clara, CA	1997	3
+Santa Clara, CA	1998	3
+Santa Clara, CA	1999	4
+Santa Clara, CA	2000	4
+Santa Clara, CA	2001	4
+Santa Clara, CA	2002	4
+Santa Clara, CA	2003	4
+Santa Clara, CA	2004	4
+Santa Clara, CA	2005	4
+Santa Clara, CA	2006	3
+Santa Clara, CA	2007	3
+Santa Clara, CA	2008	3
+Santa Clara, CA	2009	3
+Santa Clara, CA	2010	3
+Santa Clara, CA	2011	3
+Santa Clara, CA	2012	3
+Santa Clara, CA	2013	3
+Santa Clara, CA	2014	3
+Santa Clara, CA	2015	3
+Santa Clara, CA	2016	3
+Santa Clara, CA	2017	3
+Santa Clara, CA	2018	3
+Santa Clara, CA	2019	3
+Santa Clara, CA	2020	2
+Santa Monica, CA	1998	1
+Santa Monica, CA	1999	1
+Santa Monica, CA	2000	1
+Santa Monica, CA	2001	1
+Santa Monica, CA	2002	1
+Santa Monica, CA	2003	1
+Santa Monica, CA	2004	1
+Santa Monica, CA	2005	1
+Santa Monica, CA	2006	1
+Santa Monica, CA	2007	1
+Santa Monica, CA	2008	1
+Santa Monica, CA	2009	1
+Santa Monica, CA	2010	1
+Santa Monica, CA	2011	1
+Santa Monica, CA	2012	1
+Santa Monica, CA	2013	1
+Santa Monica, CA	2014	1
+Santa Monica, CA	2015	1
+Santa Monica, CA	2016	1
+Santa Monica, CA	2017	1
+Seattle, WA	1983	1
+Seattle, WA	1984	1
+Seattle, WA	1985	1
+Seattle, WA	1986	1
+Seattle, WA	1987	1
+Seattle, WA	1988	1
+Seattle, WA	1989	1
+Seattle, WA	1990	1
+Seattle, WA	1991	2
+Seattle, WA	1992	2
+Seattle, WA	1993	2
+Seattle, WA	1994	2
+Seattle, WA	1995	2
+Seattle, WA	1996	2
+Seattle, WA	1997	2
+Seattle, WA	1998	4
+Seattle, WA	1999	4
+Seattle, WA	2000	4
+Seattle, WA	2001	4
+Seattle, WA	2002	4
+Seattle, WA	2003	4
+Seattle, WA	2004	4
+Seattle, WA	2005	4
+Seattle, WA	2006	4
+Seattle, WA	2007	4
+Seattle, WA	2008	4
+Seattle, WA	2009	4
+Seattle, WA	2010	4
+Seattle, WA	2011	4
+Seattle, WA	2012	4
+Seattle, WA	2013	4
+Seattle, WA	2014	4
+Seattle, WA	2015	4
+Seattle, WA	2016	3
+Seattle, WA	2017	3
+Seattle, WA	2018	3
+Seattle, WA	2019	3
+Seattle, WA	2020	3
+Stamford, CT	1981	1
+Stamford, CT	1982	1
+Stamford, CT	1983	1
+Stamford, CT	1984	1
+Stamford, CT	1985	1
+Stamford, CT	1986	1
+Stamford, CT	1987	1
+Stamford, CT	1988	1
+Stamford, CT	1989	1
+Stamford, CT	1990	1
+Stamford, CT	1991	1
+Stamford, CT	1992	1
+Stamford, CT	1993	1
+Stamford, CT	1994	1
+Stamford, CT	1995	1
+Stamford, CT	1996	2
+Stamford, CT	1997	2
+Stamford, CT	1998	2
+Stamford, CT	1999	2
+Stamford, CT	2000	2
+Stamford, CT	2001	2
+Stamford, CT	2002	2
+Stamford, CT	2003	2
+Stamford, CT	2004	2
+Stamford, CT	2005	2
+Stamford, CT	2006	2
+Stamford, CT	2007	2
+Stamford, CT	2008	2
+Stamford, CT	2009	1
+Stamford, CT	2010	1
+Stamford, CT	2011	1
+Stamford, CT	2012	1
+Stamford, CT	2013	1
+Stamford, CT	2014	1
+Stamford, CT	2015	1
+St. Paul, MN	1996	1
+St. Paul, MN	1997	1
+St. Paul, MN	1998	1
+St. Paul, MN	1999	1
+St. Paul, MN	2000	1
+St. Paul, MN	2001	1
+St. Paul, MN	2002	1
+St. Paul, MN	2003	1
+St. Paul, MN	2004	1
+St. Paul, MN	2005	1
+St. Paul, MN	2006	1
+St. Paul, MN	2007	1
+St. Paul, MN	2008	1
+St. Paul, MN	2009	1
+St. Paul, MN	2010	1
+St. Paul, MN	2011	1
+St. Paul, MN	2012	1
+St. Paul, MN	2013	1
+Torrance, CA	1983	1
+Torrance, CA	1984	1
+Torrance, CA	1985	1
+Torrance, CA	1986	1
+Torrance, CA	1987	1
+Torrance, CA	1988	1
+Torrance, CA	1989	1
+Torrance, CA	1990	1
+Torrance, CA	1991	1
+Torrance, CA	1992	1
+Torrance, CA	1993	1
+Torrance, CA	1994	1
+Torrance, CA	1995	1
+Torrance, CA	1997	1
+Torrance, CA	1998	1
+Torrance, CA	1999	1
+Torrance, CA	2000	1
+Torrance, CA	2001	1
+Torrance, CA	2002	1
+Torrance, CA	2003	1
+Torrance, CA	2004	1
+Torrance, CA	2005	1
+Torrance, CA	2006	1
+Torrance, CA	2007	1
+Torrance, CA	2008	1
+Torrance, CA	2009	1
+Torrance, CA	2010	1
+Torrance, CA	2011	1
+Torrance, CA	2012	1
+Tysons Corner, VA	1999	1
+Tysons Corner, VA	2000	1
+Tysons Corner, VA	2001	1
+Tysons Corner, VA	2002	1
+Tysons Corner, VA	2003	2
+Tysons Corner, VA	2004	2
+Tysons Corner, VA	2005	2
+Tysons Corner, VA	2006	2
+Tysons Corner, VA	2007	2
+Tysons Corner, VA	2008	2
+Tysons Corner, VA	2009	2
+Tysons Corner, VA	2010	2
+Tysons Corner, VA	2011	2
+Tysons Corner, VA	2012	2
+Tysons Corner, VA	2013	2
+Tysons Corner, VA	2014	1
+Tysons Corner, VA	2015	1
+Walnut Creek, CA	1994	1
+Walnut Creek, CA	1995	1
+Walnut Creek, CA	1996	1
+Walnut Creek, CA	1997	1
+Walnut Creek, CA	1998	1
+Walnut Creek, CA	1999	1
+Walnut Creek, CA	2000	1
+Walnut Creek, CA	2001	1
+Walnut Creek, CA	2002	1
+Walnut Creek, CA	2003	1
+Walnut Creek, CA	2004	1
+Walnut Creek, CA	2005	1
+Walnut Creek, CA	2006	1
+Walnut Creek, CA	2007	1
+Walnut Creek, CA	2008	1
+Walnut Creek, CA	2009	1
+Walnut Creek, CA	2010	1
+Walnut Creek, CA	2011	1
+Waltham, MA	1996	1
+Waltham, MA	1997	1
+Waltham, MA	1998	1
+Waltham, MA	1999	1
+Waltham, MA	2000	1
+Waltham, MA	2001	1
+Waltham, MA	2002	1
+Waltham, MA	2003	1
+Waltham, MA	2004	1
+Waltham, MA	2005	1
+Waltham, MA	2006	1
+Waltham, MA	2007	1
+Waltham, MA	2008	1
+Waltham, MA	2009	1
+Waltham, MA	2010	1
+Waltham, MA	2011	1
+Waltham, MA	2012	1
+Waltham, MA	2013	1
+Washington, DC	2002	1
+Washington, DC	2003	1
+Washington, DC	2004	1
+Washington, DC	2005	1
+Washington, DC	2006	1
+Washington, DC	2007	1
+Washington, DC	2008	1
+Washington, DC	2009	1
+Washington, DC	2010	1
+Washington, DC	2011	1
+Washington, DC	2012	1
+Washington, DC	2013	1
+Washington, DC	2014	1
+Washington, DC	2015	1
+Washington, DC	2016	1
+Washington, DC	2017	1
+Washington, DC	2018	1
+Washington, DC	2019	1
+Washington, DC	2020	1
+Wellesley, MA	1981	1
+Wellesley, MA	1982	1
+Wellesley, MA	1983	1
+Wellesley, MA	1984	1
+Wellesley, MA	1985	1
+Wellesley, MA	1986	1
+Wellesley, MA	1987	1
+Wellesley, MA	1988	1
+Wellesley, MA	1989	1
+Wellesley, MA	1990	1
+Wellesley, MA	1991	1
+Wellesley, MA	1992	2
+Wellesley, MA	1993	2
+Wellesley, MA	1994	2
+Wellesley, MA	1995	2
+Wellesley, MA	1996	2
+Wellesley, MA	1997	2
+Wellesley, MA	1998	2
+Wellesley, MA	1999	3
+Wellesley, MA	2000	4
+Wellesley, MA	2001	4
+Wellesley, MA	2002	4
+Wellesley, MA	2003	4
+Wellesley, MA	2004	4
+Wellesley, MA	2005	4
+Wellesley, MA	2006	4
+Wellesley, MA	2007	4
+Wellesley, MA	2008	4
+Wellesley, MA	2009	4
+Wellesley, MA	2010	4
+Wellesley, MA	2011	4
+Wellesley, MA	2012	4
+Wellesley, MA	2013	3
+Wellesley, MA	2014	3
+Wellesley, MA	2015	3
+Wellesley, MA	2016	3
+Wellesley, MA	2017	2
+Wellesley, MA	2018	2
+Wellesley, MA	2019	1
+Wellesley, MA	2020	1
+Westminster, CO	1999	1
+Westminster, CO	2000	1
+Westminster, CO	2001	1
+Westminster, CO	2002	1
+Westminster, CO	2003	1
+Westminster, CO	2004	1
+Westminster, CO	2005	1
+Westminster, CO	2006	1
+Westminster, CO	2007	1
+Westminster, CO	2008	1
+Westminster, CO	2009	1
+Westminster, CO	2010	1
+Westminster, CO	2011	1
+Westminster, CO	2012	1
+Westminster, CO	2013	1
+Westminster, CO	2014	1
+Westminster, CO	2015	1
+Westminster, CO	2016	1
+Westminster, CO	2017	1
+Westminster, CO	2018	1
+Westminster, CO	2019	1
+Westport, CT	1982	2
+Westport, CT	1983	2
+Westport, CT	1984	2
+Westport, CT	1985	2
+Westport, CT	1986	2
+Westport, CT	1987	2
+Westport, CT	1988	2
+Westport, CT	1989	2
+Westport, CT	1990	2
+Westport, CT	1991	2
+Westport, CT	1992	2
+Westport, CT	1993	2
+Westport, CT	1994	2
+Westport, CT	1995	2
+Westport, CT	1996	1
+Westport, CT	1997	1
+Westport, CT	1998	1
+Westport, CT	1999	1
+Woburn, MA	1995	1
+Woburn, MA	1996	1
+Woburn, MA	1997	1
+Woburn, MA	1998	1
+Woburn, MA	1999	1
+Woburn, MA	2000	1
+Woburn, MA	2001	1
+Woburn, MA	2002	1
+Woburn, MA	2003	1
+Woburn, MA	2004	1
+Woburn, MA	2005	1
+Woburn, MA	2006	1
+Woburn, MA	2007	1
+Woburn, MA	2008	1
+Woburn, MA	2009	1
+Woburn, MA	2010	1
+Woburn, MA	2011	1
+Woburn, MA	2012	1
+Woburn, MA	2013	1
+Woburn, MA	2014	1
+Woburn, MA	2015	1

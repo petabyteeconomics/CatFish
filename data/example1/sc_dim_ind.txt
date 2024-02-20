@@ -1,0 +1,4 @@
+industry	idx
+Information Technology	1
+Medical/Health/Life Science	2
+Non-High Technology	3
